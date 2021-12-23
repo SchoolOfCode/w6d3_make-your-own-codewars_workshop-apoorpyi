@@ -7,11 +7,11 @@ You may assume the array will always contain positive integers and will not be e
 Example: 
 [1,2,3,4,5]
  1*3*5 > 2*4
- Expected result: `Odds wins. 15 > 8`
+ Expected result: `Odds win. 15 > 8`
 
 [2,3,4,6,7]
  2*4*6 > 3*7
- Expected result: `Evens wins. 48 > 21`
+ Expected result: `Evens win. 48 > 21`
  
 [22]
 Expected result: `Even wins. 22 is even`
